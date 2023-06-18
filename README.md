@@ -32,15 +32,18 @@
 
 Событие LCP происходит на элементе `img.contentImage__image`.
 
-<img src="./images/performance-1.png" style="width:500px;" />
+<img src="./images/performance-1.png" style="width:400px;" />
 
 
 ## 3. Вкладка Coverage
 
+
 <img src="./images/coverage-1.png" style="width:700px;" />
 
 Объём неиспользованного CSS: 548 kB
+
 <img src="./images/coverage-2.png" style="width:700px;" />
 
 Объём неиспользованного JS: 2.3 MB (2355kB)
+
 <img src="./images/coverage-3.png" style="width:700px;" />
